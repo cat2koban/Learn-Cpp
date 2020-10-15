@@ -3,7 +3,8 @@ using namespace std;
 
 int main() {
   int N, A;
-  cin >> N >> A;
+  cin >> N >>
+   A;
 
   for (int i = 0; i < N; i++) {
     int x;
