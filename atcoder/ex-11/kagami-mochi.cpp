@@ -7,8 +7,7 @@ int main()
   cin >> n;
   vector<int> array(n);
   for (int& element: array)
-  {
- cin >> element;
+    cin >> element;
 
   sort(array.begin(), array.end());
 
