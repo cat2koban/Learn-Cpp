@@ -16,8 +16,7 @@ int main()
             ans = true;
             break;
         }
-
         num = array.at(i);
     }
-    cout << (ans? "Yes" : "No") << endl;
+    cout << (ans? "YES" : "NO") << endl;
 }
